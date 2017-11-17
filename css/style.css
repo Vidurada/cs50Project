@@ -136,3 +136,8 @@ body:before {
   -webkit-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
 }
+
+.content-box {
+   border: 10px solid #000000;
+   column-count: 3;
+ }
