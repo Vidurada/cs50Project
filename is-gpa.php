@@ -186,9 +186,7 @@
 																					<h5 class="title">First Semester</h5>
 
 																						<div class="form-group">
-																							<table>
-																								<tr>
-																									<td>
+
 																								<label>IS 1001 Programming and Problem Solving</label>
 																								<select> <option> A+ </option>
                                                          <option> A </option>
@@ -255,7 +253,7 @@
  																												 <option> D- </option>
  																												 <option> E </option>
  																												 <option> ab </option>
- 																					       </select>
+ 																					       </select><br>
 
 																								 <label>IS 1005 Introduction to Management</label>
  																								<select> <option> A+ </option>
@@ -272,7 +270,7 @@
  																												 <option> D- </option>
  																												 <option> E </option>
  																												 <option> ab </option>
- 																					       </select>
+ 																					       </select><br>
 
 																								 <label>IS 1006 Discrete Mathematics I</label>
  																								<select> <option> A+ </option>
@@ -289,7 +287,7 @@
  																												 <option> D- </option>
  																												 <option> E </option>
  																												 <option> ab </option>
- 																					       </select>
+ 																					       </select><br>
 
 																								 <label>IS 1007 Fundamentals of Economics</label>
  																								<select> <option> A+ </option>
@@ -306,34 +304,913 @@
  																												 <option> D- </option>
  																												 <option> E </option>
  																												 <option> ab </option>
- 																					       </select>
-																								 <label>EN 1001 Enhancement I </label>
- 																								<select> <option> Complete </option>
-                                                          <option> Not Complete </option>
+ 																					       </select><br>
 
- 																					       </select>
 																						</div>
 																				</div>
 																				<div class="col-md-6">
 																					<br><br>
 																					<h5 class="title">Second Semester</h5>
 																						<div class="form-group">
-																								<label>Last Name</label>
-																								<input type="text" class="form-control" placeholder="Last Name" value="Andrew">
+																							<label>IS 1001 Programming and Problem Solving</label>
+																							<select> <option> A+ </option>
+																											 <option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+																							 <label>IS 1002 Computer Systems</label>
+																							<select> <option> A+ </option>
+																												<option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+																								 <label>IS 1003 Information System Concepts</label>
+																							<select> <option> A+ </option>
+																												<option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+																							 <label>IS 1004 Applications Laboratory</label>
+																							<select> <option> A+ </option>
+																												<option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+																							 <label>IS 1005 Introduction to Management</label>
+																							<select> <option> A+ </option>
+																												<option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+																							 <label>IS 1006 Discrete Mathematics I</label>
+																							<select> <option> A+ </option>
+																												<option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+																							 <label>IS 1007 Fundamentals of Economics</label>
+																							<select> <option> A+ </option>
+																												<option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+
+																						</div>
+																				</div>
+																		</div>
+																		<div class="row">
+																				<div class="col-md-6">
+																					<h4 class="title">Second Year</h4></br>
+																					<h5 class="title">First Semester</h5>
+
+																						<div class="form-group">
+
+																								<label>IS 1001 Programming and Problem Solving</label>
+																								<select> <option> A+ </option>
+                                                         <option> A </option>
+																												 <option> A- </option>
+																												 <option> B+ </option>
+																												 <option> B </option>
+																												 <option> B- </option>
+																												 <option> C+ </option>
+																												 <option> C </option>
+																												 <option> C- </option>
+																												 <option> D+ </option>
+																												 <option> D </option>
+																												 <option> D- </option>
+																												 <option> E </option>
+																												 <option> ab </option>
+																					       </select><br>
+
+																								 <label>IS 1002 Computer Systems</label>
+ 																								<select> <option> A+ </option>
+                                                          <option> A </option>
+ 																												 <option> A- </option>
+ 																												 <option> B+ </option>
+ 																												 <option> B </option>
+ 																												 <option> B- </option>
+ 																												 <option> C+ </option>
+ 																												 <option> C </option>
+ 																												 <option> C- </option>
+ 																												 <option> D+ </option>
+ 																												 <option> D </option>
+ 																												 <option> D- </option>
+ 																												 <option> E </option>
+ 																												 <option> ab </option>
+ 																					       </select><br>
+
+																									 <label>IS 1003 Information System Concepts</label>
+ 																								<select> <option> A+ </option>
+                                                          <option> A </option>
+ 																												 <option> A- </option>
+ 																												 <option> B+ </option>
+ 																												 <option> B </option>
+ 																												 <option> B- </option>
+ 																												 <option> C+ </option>
+ 																												 <option> C </option>
+ 																												 <option> C- </option>
+ 																												 <option> D+ </option>
+ 																												 <option> D </option>
+ 																												 <option> D- </option>
+ 																												 <option> E </option>
+ 																												 <option> ab </option>
+ 																					       </select><br>
+
+																								 <label>IS 1004 Applications Laboratory</label>
+ 																								<select> <option> A+ </option>
+                                                          <option> A </option>
+ 																												 <option> A- </option>
+ 																												 <option> B+ </option>
+ 																												 <option> B </option>
+ 																												 <option> B- </option>
+ 																												 <option> C+ </option>
+ 																												 <option> C </option>
+ 																												 <option> C- </option>
+ 																												 <option> D+ </option>
+ 																												 <option> D </option>
+ 																												 <option> D- </option>
+ 																												 <option> E </option>
+ 																												 <option> ab </option>
+ 																					       </select><br>
+
+																								 <label>IS 1005 Introduction to Management</label>
+ 																								<select> <option> A+ </option>
+                                                          <option> A </option>
+ 																												 <option> A- </option>
+ 																												 <option> B+ </option>
+ 																												 <option> B </option>
+ 																												 <option> B- </option>
+ 																												 <option> C+ </option>
+ 																												 <option> C </option>
+ 																												 <option> C- </option>
+ 																												 <option> D+ </option>
+ 																												 <option> D </option>
+ 																												 <option> D- </option>
+ 																												 <option> E </option>
+ 																												 <option> ab </option>
+ 																					       </select><br>
+
+																								 <label>IS 1006 Discrete Mathematics I</label>
+ 																								<select> <option> A+ </option>
+                                                          <option> A </option>
+ 																												 <option> A- </option>
+ 																												 <option> B+ </option>
+ 																												 <option> B </option>
+ 																												 <option> B- </option>
+ 																												 <option> C+ </option>
+ 																												 <option> C </option>
+ 																												 <option> C- </option>
+ 																												 <option> D+ </option>
+ 																												 <option> D </option>
+ 																												 <option> D- </option>
+ 																												 <option> E </option>
+ 																												 <option> ab </option>
+ 																					       </select><br>
+
+																								 <label>IS 1007 Fundamentals of Economics</label>
+ 																								<select> <option> A+ </option>
+                                                          <option> A </option>
+ 																												 <option> A- </option>
+ 																												 <option> B+ </option>
+ 																												 <option> B </option>
+ 																												 <option> B- </option>
+ 																												 <option> C+ </option>
+ 																												 <option> C </option>
+ 																												 <option> C- </option>
+ 																												 <option> D+ </option>
+ 																												 <option> D </option>
+ 																												 <option> D- </option>
+ 																												 <option> E </option>
+ 																												 <option> ab </option>
+ 																					       </select><br>
+
+																						</div>
+																				</div>
+																				<div class="col-md-6">
+																					<br><br>
+																					<h5 class="title">Second Semester</h5>
+																						<div class="form-group">
+																							<label>IS 1001 Programming and Problem Solving</label>
+																							<select> <option> A+ </option>
+																											 <option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+																							 <label>IS 1002 Computer Systems</label>
+																							<select> <option> A+ </option>
+																												<option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+																								 <label>IS 1003 Information System Concepts</label>
+																							<select> <option> A+ </option>
+																												<option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+																							 <label>IS 1004 Applications Laboratory</label>
+																							<select> <option> A+ </option>
+																												<option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+																							 <label>IS 1005 Introduction to Management</label>
+																							<select> <option> A+ </option>
+																												<option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+																							 <label>IS 1006 Discrete Mathematics I</label>
+																							<select> <option> A+ </option>
+																												<option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+																							 <label>IS 1007 Fundamentals of Economics</label>
+																							<select> <option> A+ </option>
+																												<option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+
+																						</div>
+																				</div>
+																		</div>
+																		<div class="row">
+																				<div class="col-md-6">
+																					<h4 class="title">Third Year</h4></br>
+																					<h5 class="title">First Semester</h5>
+
+																						<div class="form-group">
+
+																								<label>IS 1001 Programming and Problem Solving</label>
+																								<select> <option> A+ </option>
+                                                         <option> A </option>
+																												 <option> A- </option>
+																												 <option> B+ </option>
+																												 <option> B </option>
+																												 <option> B- </option>
+																												 <option> C+ </option>
+																												 <option> C </option>
+																												 <option> C- </option>
+																												 <option> D+ </option>
+																												 <option> D </option>
+																												 <option> D- </option>
+																												 <option> E </option>
+																												 <option> ab </option>
+																					       </select><br>
+
+																								 <label>IS 1002 Computer Systems</label>
+ 																								<select> <option> A+ </option>
+                                                          <option> A </option>
+ 																												 <option> A- </option>
+ 																												 <option> B+ </option>
+ 																												 <option> B </option>
+ 																												 <option> B- </option>
+ 																												 <option> C+ </option>
+ 																												 <option> C </option>
+ 																												 <option> C- </option>
+ 																												 <option> D+ </option>
+ 																												 <option> D </option>
+ 																												 <option> D- </option>
+ 																												 <option> E </option>
+ 																												 <option> ab </option>
+ 																					       </select><br>
+
+																									 <label>IS 1003 Information System Concepts</label>
+ 																								<select> <option> A+ </option>
+                                                          <option> A </option>
+ 																												 <option> A- </option>
+ 																												 <option> B+ </option>
+ 																												 <option> B </option>
+ 																												 <option> B- </option>
+ 																												 <option> C+ </option>
+ 																												 <option> C </option>
+ 																												 <option> C- </option>
+ 																												 <option> D+ </option>
+ 																												 <option> D </option>
+ 																												 <option> D- </option>
+ 																												 <option> E </option>
+ 																												 <option> ab </option>
+ 																					       </select><br>
+
+																								 <label>IS 1004 Applications Laboratory</label>
+ 																								<select> <option> A+ </option>
+                                                          <option> A </option>
+ 																												 <option> A- </option>
+ 																												 <option> B+ </option>
+ 																												 <option> B </option>
+ 																												 <option> B- </option>
+ 																												 <option> C+ </option>
+ 																												 <option> C </option>
+ 																												 <option> C- </option>
+ 																												 <option> D+ </option>
+ 																												 <option> D </option>
+ 																												 <option> D- </option>
+ 																												 <option> E </option>
+ 																												 <option> ab </option>
+ 																					       </select><br>
+
+																								 <label>IS 1005 Introduction to Management</label>
+ 																								<select> <option> A+ </option>
+                                                          <option> A </option>
+ 																												 <option> A- </option>
+ 																												 <option> B+ </option>
+ 																												 <option> B </option>
+ 																												 <option> B- </option>
+ 																												 <option> C+ </option>
+ 																												 <option> C </option>
+ 																												 <option> C- </option>
+ 																												 <option> D+ </option>
+ 																												 <option> D </option>
+ 																												 <option> D- </option>
+ 																												 <option> E </option>
+ 																												 <option> ab </option>
+ 																					       </select><br>
+
+																								 <label>IS 1006 Discrete Mathematics I</label>
+ 																								<select> <option> A+ </option>
+                                                          <option> A </option>
+ 																												 <option> A- </option>
+ 																												 <option> B+ </option>
+ 																												 <option> B </option>
+ 																												 <option> B- </option>
+ 																												 <option> C+ </option>
+ 																												 <option> C </option>
+ 																												 <option> C- </option>
+ 																												 <option> D+ </option>
+ 																												 <option> D </option>
+ 																												 <option> D- </option>
+ 																												 <option> E </option>
+ 																												 <option> ab </option>
+ 																					       </select><br>
+
+																								 <label>IS 1007 Fundamentals of Economics</label>
+ 																								<select> <option> A+ </option>
+                                                          <option> A </option>
+ 																												 <option> A- </option>
+ 																												 <option> B+ </option>
+ 																												 <option> B </option>
+ 																												 <option> B- </option>
+ 																												 <option> C+ </option>
+ 																												 <option> C </option>
+ 																												 <option> C- </option>
+ 																												 <option> D+ </option>
+ 																												 <option> D </option>
+ 																												 <option> D- </option>
+ 																												 <option> E </option>
+ 																												 <option> ab </option>
+ 																					       </select><br>
+
+																						</div>
+																				</div>
+																				<div class="col-md-6">
+																					<br><br>
+																					<h5 class="title">Second Semester</h5>
+																						<div class="form-group">
+																							<label>IS 1001 Programming and Problem Solving</label>
+																							<select> <option> A+ </option>
+																											 <option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+																							 <label>IS 1002 Computer Systems</label>
+																							<select> <option> A+ </option>
+																												<option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+																								 <label>IS 1003 Information System Concepts</label>
+																							<select> <option> A+ </option>
+																												<option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+																							 <label>IS 1004 Applications Laboratory</label>
+																							<select> <option> A+ </option>
+																												<option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+																							 <label>IS 1005 Introduction to Management</label>
+																							<select> <option> A+ </option>
+																												<option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+																							 <label>IS 1006 Discrete Mathematics I</label>
+																							<select> <option> A+ </option>
+																												<option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+																							 <label>IS 1007 Fundamentals of Economics</label>
+																							<select> <option> A+ </option>
+																												<option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+
+																						</div>
+																				</div>
+																		</div>
+																		<div class="row">
+																				<div class="col-md-6">
+																					<h4 class="title">Forth Year</h4></br>
+																					<h5 class="title">First Semester</h5>
+
+																						<div class="form-group">
+
+																								<label>IS 1001 Programming and Problem Solving</label>
+																								<select> <option> A+ </option>
+                                                         <option> A </option>
+																												 <option> A- </option>
+																												 <option> B+ </option>
+																												 <option> B </option>
+																												 <option> B- </option>
+																												 <option> C+ </option>
+																												 <option> C </option>
+																												 <option> C- </option>
+																												 <option> D+ </option>
+																												 <option> D </option>
+																												 <option> D- </option>
+																												 <option> E </option>
+																												 <option> ab </option>
+																					       </select><br>
+
+																								 <label>IS 1002 Computer Systems</label>
+ 																								<select> <option> A+ </option>
+                                                          <option> A </option>
+ 																												 <option> A- </option>
+ 																												 <option> B+ </option>
+ 																												 <option> B </option>
+ 																												 <option> B- </option>
+ 																												 <option> C+ </option>
+ 																												 <option> C </option>
+ 																												 <option> C- </option>
+ 																												 <option> D+ </option>
+ 																												 <option> D </option>
+ 																												 <option> D- </option>
+ 																												 <option> E </option>
+ 																												 <option> ab </option>
+ 																					       </select><br>
+
+																									 <label>IS 1003 Information System Concepts</label>
+ 																								<select> <option> A+ </option>
+                                                          <option> A </option>
+ 																												 <option> A- </option>
+ 																												 <option> B+ </option>
+ 																												 <option> B </option>
+ 																												 <option> B- </option>
+ 																												 <option> C+ </option>
+ 																												 <option> C </option>
+ 																												 <option> C- </option>
+ 																												 <option> D+ </option>
+ 																												 <option> D </option>
+ 																												 <option> D- </option>
+ 																												 <option> E </option>
+ 																												 <option> ab </option>
+ 																					       </select><br>
+
+																								 <label>IS 1004 Applications Laboratory</label>
+ 																								<select> <option> A+ </option>
+                                                          <option> A </option>
+ 																												 <option> A- </option>
+ 																												 <option> B+ </option>
+ 																												 <option> B </option>
+ 																												 <option> B- </option>
+ 																												 <option> C+ </option>
+ 																												 <option> C </option>
+ 																												 <option> C- </option>
+ 																												 <option> D+ </option>
+ 																												 <option> D </option>
+ 																												 <option> D- </option>
+ 																												 <option> E </option>
+ 																												 <option> ab </option>
+ 																					       </select><br>
+
+																								 <label>IS 1005 Introduction to Management</label>
+ 																								<select> <option> A+ </option>
+                                                          <option> A </option>
+ 																												 <option> A- </option>
+ 																												 <option> B+ </option>
+ 																												 <option> B </option>
+ 																												 <option> B- </option>
+ 																												 <option> C+ </option>
+ 																												 <option> C </option>
+ 																												 <option> C- </option>
+ 																												 <option> D+ </option>
+ 																												 <option> D </option>
+ 																												 <option> D- </option>
+ 																												 <option> E </option>
+ 																												 <option> ab </option>
+ 																					       </select><br>
+
+																								 <label>IS 1006 Discrete Mathematics I</label>
+ 																								<select> <option> A+ </option>
+                                                          <option> A </option>
+ 																												 <option> A- </option>
+ 																												 <option> B+ </option>
+ 																												 <option> B </option>
+ 																												 <option> B- </option>
+ 																												 <option> C+ </option>
+ 																												 <option> C </option>
+ 																												 <option> C- </option>
+ 																												 <option> D+ </option>
+ 																												 <option> D </option>
+ 																												 <option> D- </option>
+ 																												 <option> E </option>
+ 																												 <option> ab </option>
+ 																					       </select><br>
+
+																								 <label>IS 1007 Fundamentals of Economics</label>
+ 																								<select> <option> A+ </option>
+                                                          <option> A </option>
+ 																												 <option> A- </option>
+ 																												 <option> B+ </option>
+ 																												 <option> B </option>
+ 																												 <option> B- </option>
+ 																												 <option> C+ </option>
+ 																												 <option> C </option>
+ 																												 <option> C- </option>
+ 																												 <option> D+ </option>
+ 																												 <option> D </option>
+ 																												 <option> D- </option>
+ 																												 <option> E </option>
+ 																												 <option> ab </option>
+ 																					       </select><br>
+
+																						</div>
+																				</div>
+																				<div class="col-md-6">
+																					<br><br>
+																					<h5 class="title">Second Semester</h5>
+																						<div class="form-group">
+																							<label>IS 1001 Programming and Problem Solving</label>
+																							<select> <option> A+ </option>
+																											 <option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+																							 <label>IS 1002 Computer Systems</label>
+																							<select> <option> A+ </option>
+																												<option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+																								 <label>IS 1003 Information System Concepts</label>
+																							<select> <option> A+ </option>
+																												<option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+																							 <label>IS 1004 Applications Laboratory</label>
+																							<select> <option> A+ </option>
+																												<option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+																							 <label>IS 1005 Introduction to Management</label>
+																							<select> <option> A+ </option>
+																												<option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+																							 <label>IS 1006 Discrete Mathematics I</label>
+																							<select> <option> A+ </option>
+																												<option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+																							 <label>IS 1007 Fundamentals of Economics</label>
+																							<select> <option> A+ </option>
+																												<option> A </option>
+																											 <option> A- </option>
+																											 <option> B+ </option>
+																											 <option> B </option>
+																											 <option> B- </option>
+																											 <option> C+ </option>
+																											 <option> C </option>
+																											 <option> C- </option>
+																											 <option> D+ </option>
+																											 <option> D </option>
+																											 <option> D- </option>
+																											 <option> E </option>
+																											 <option> ab </option>
+																							 </select><br>
+
+
 																						</div>
 																				</div>
 																		</div>
 
-																		<div class="row">
+																		<!--<div class="row">
 																				<div class="col-md-12">
 																						<div class="form-group">
 																								<label>Address</label>
 																								<input type="text" class="form-control" placeholder="Home Address" value="Bld Mihail Kogalniceanu, nr. 8 Bl 1, Sc 1, Ap 09">
 																						</div>
 																				</div>
-																		</div>
+																		</div>-->
 
-																		<div class="row">
+																		<!--<div class="row">
 																				<div class="col-md-4">
 																						<div class="form-group">
 																								<label>City</label>
@@ -352,18 +1229,18 @@
 																								<input type="number" class="form-control" placeholder="ZIP Code">
 																						</div>
 																				</div>
-																		</div>
+																		</div>-->
 
-																		<div class="row">
+																		<!--<div class="row">
 																				<div class="col-md-12">
 																						<div class="form-group">
 																								<label>About Me</label>
 																								<textarea rows="5" class="form-control" placeholder="Here can be your description" value="Mike">Lamborghini Mercy, Your chick she so thirsty, I'm in that two seat Lambo.</textarea>
 																						</div>
 																				</div>
-																		</div>
+																		</div>-->
 
-																		<button type="submit" class="btn btn-info btn-fill pull-right">Update Profile</button>
+																		<button type="submit" class="btn btn-info btn-fill pull-right">Calculate GPA</button>
 																		<div class="clearfix"></div>
 																</form>
 														</div>
