@@ -353,7 +353,7 @@
 																							<table>
 																								<tr>
 																									<td>
-																								<label>IS 1001 Programming and Problem Solving</label>
+																								<label>IS 1008 Financial Accounting</label>
 																							</td>
 																							<td>
 																								<select> <option> A+ </option>
@@ -376,7 +376,7 @@
 
 																					 <tr>
 																						 <td>
-																								 <label>IS 1002 Computer Systems</label>
+																								 <label>IS 1009 Business Communication</label>
 																							 </td>
 																							 <td>
  																								<select> <option> A+ </option>
@@ -398,7 +398,7 @@
 																						 </tr>
 																					 <tr>
 																						 <td>
-																									 <label>IS 1003 Information System Concepts</label>
+																									 <label>IS 1010 Database Management</label>
 																								 </td>
 																								 <td>
  																								<select> <option> A+ </option>
@@ -420,7 +420,7 @@
 																						 </tr>
             										 							<tr>
 																								<td>
-																								 <label>IS 1004 Applications Laboratory</label>
+																								 <label>IS 1011 Systems Analysis and Design</label>
 																							 </td>
 																							 <td>
  																								<select> <option> A+ </option>
@@ -442,7 +442,7 @@
 																						 </tr>
 																					 <tr>
 																						 <td>
-																								 <label>IS 1005 Introduction to Management</label>
+																								 <label>IS 1012 Discrete Mathematics II</label>
 																							 </td>
 																							 <td>
  																								<select> <option> A+ </option>
@@ -464,7 +464,7 @@
 																						 </tr>
 																						 <tr>
 																							 <td>
-																								 <label>IS 1006 Discrete Mathematics I</label>
+																								 <label>IS 1013 Organizational Behaviour</label>
 																							 </td>
 																							 <td>
  																								<select> <option> A+ </option>
@@ -487,7 +487,7 @@
 																						 <tr>
 																							 <td>
 
-																								 <label>IS 1007 Fundamentals of Economics</label>
+																								 <label>IS 1014 Computing and Society</label>
 																							 </td>
 																							 <td>
  																								<select> <option> A+ </option>
@@ -520,7 +520,7 @@
 																							<table>
 																								<tr>
 																									<td>
-																								<label>IS 1001 Programming and Problem Solving</label>
+																								<label>IS 2001 Software Engineering</label>
 																							</td>
 																							<td>
 																								<select> <option> A+ </option>
@@ -543,7 +543,7 @@
 
 																					 <tr>
 																						 <td>
-																								 <label>IS 1002 Computer Systems</label>
+																								 <label>IS 2002 Group Project I</label>
 																							 </td>
 																							 <td>
  																								<select> <option> A+ </option>
@@ -565,7 +565,7 @@
 																						 </tr>
 																					 <tr>
 																						 <td>
-																									 <label>IS 1003 Information System Concepts</label>
+																									 <label>IS 2003 Marketing</label>
 																								 </td>
 																								 <td>
  																								<select> <option> A+ </option>
@@ -587,7 +587,7 @@
 																						 </tr>
             										 							<tr>
 																								<td>
-																								 <label>IS 1004 Applications Laboratory</label>
+																								 <label>IS 2004 Web Application Development</label>
 																							 </td>
 																							 <td>
  																								<select> <option> A+ </option>
@@ -609,7 +609,7 @@
 																						 </tr>
 																					 <tr>
 																						 <td>
-																								 <label>IS 1005 Introduction to Management</label>
+																								 <label>IS 2005 Business Statistics</label>
 																							 </td>
 																							 <td>
  																								<select> <option> A+ </option>
@@ -631,7 +631,7 @@
 																						 </tr>
 																						 <tr>
 																							 <td>
-																								 <label>IS 1006 Discrete Mathematics I</label>
+																								 <label>IS 2006 Business Process Management</label>
 																							 </td>
 																							 <td>
  																								<select> <option> A+ </option>
@@ -654,24 +654,7 @@
 																						 <tr>
 																							 <td>
 
-																								 <label>IS 1007 Fundamentals of Economics</label>
-																							 </td>
-																							 <td>
- 																								<select> <option> A+ </option>
-                                                          <option> A </option>
- 																												 <option> A- </option>
- 																												 <option> B+ </option>
- 																												 <option> B </option>
- 																												 <option> B- </option>
- 																												 <option> C+ </option>
- 																												 <option> C </option>
- 																												 <option> C- </option>
- 																												 <option> D+ </option>
- 																												 <option> D </option>
- 																												 <option> D- </option>
- 																												 <option> E </option>
- 																												 <option> ab </option>
- 																					       </select>
+
 																							 </td>
 																						 </tr>
 																					 </table>
@@ -685,7 +668,7 @@
 																							<table>
 																								<tr>
 																									<td>
-																								<label>IS 1001 Programming and Problem Solving</label>
+																								<label>IS 2007 IT Project Management</label>
 																							</td>
 																							<td>
 																								<select> <option> A+ </option>
@@ -708,7 +691,7 @@
 
 																					 <tr>
 																						 <td>
-																								 <label>IS 1002 Computer Systems</label>
+																								 <label>IS 2008 Information Systems Management</label>
 																							 </td>
 																							 <td>
  																								<select> <option> A+ </option>
@@ -730,7 +713,7 @@
 																						 </tr>
 																					 <tr>
 																						 <td>
-																									 <label>IS 1003 Information System Concepts</label>
+																									 <label>IS 2009 Information Systems Security</label>
 																								 </td>
 																								 <td>
  																								<select> <option> A+ </option>
@@ -752,7 +735,7 @@
 																						 </tr>
             										 							<tr>
 																								<td>
-																								 <label>IS 1004 Applications Laboratory</label>
+																								 <label>IS 2010 IT Procurement Management</label>
 																							 </td>
 																							 <td>
  																								<select> <option> A+ </option>
@@ -774,7 +757,7 @@
 																						 </tr>
 																					 <tr>
 																						 <td>
-																								 <label>IS 1005 Introduction to Management</label>
+																								 <label>IS 2011 Computer Networks</label>
 																							 </td>
 																							 <td>
  																								<select> <option> A+ </option>
@@ -796,7 +779,7 @@
 																						 </tr>
 																						 <tr>
 																							 <td>
-																								 <label>IS 1006 Discrete Mathematics I</label>
+																								 <label>IS 2012 eBusiness Strategy</label>
 																							 </td>
 																							 <td>
  																								<select> <option> A+ </option>
@@ -819,24 +802,6 @@
 																						 <tr>
 																							 <td>
 
-																								 <label>IS 1007 Fundamentals of Economics</label>
-																							 </td>
-																							 <td>
- 																								<select> <option> A+ </option>
-                                                          <option> A </option>
- 																												 <option> A- </option>
- 																												 <option> B+ </option>
- 																												 <option> B </option>
- 																												 <option> B- </option>
- 																												 <option> C+ </option>
- 																												 <option> C </option>
- 																												 <option> C- </option>
- 																												 <option> D+ </option>
- 																												 <option> D </option>
- 																												 <option> D- </option>
- 																												 <option> E </option>
- 																												 <option> ab </option>
- 																					       </select>
 																							 </td>
 																						 </tr>
 																					 </table>
